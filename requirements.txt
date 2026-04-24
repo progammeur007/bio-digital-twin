@@ -1,5 +1,6 @@
-streamlit
-tensorflow
-scikit-learn
+streamlit>=1.30.0
+tensorflow-cpu>=2.12.0
+scikit-learn>=1.2.0
 pandas
 numpy
+plotly
