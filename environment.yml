@@ -1,0 +1,12 @@
+name: bdt-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - tensorflow-cpu=2.15.0
+  - scikit-learn
+  - pandas
+  - plotly
+  - streamlit
+  - pip
