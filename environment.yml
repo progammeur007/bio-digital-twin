@@ -6,8 +6,8 @@ dependencies:
   - python=3.10
   - tensorflow-cpu=2.15.0
   - scikit-learn
+  - joblib
   - pandas
   - plotly
   - streamlit
   - pip
-  - joblib
